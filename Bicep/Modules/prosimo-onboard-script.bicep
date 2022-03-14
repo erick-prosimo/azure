@@ -9,7 +9,7 @@ param keyVaultName string
 param managementGroupName string
 
 var tenantId = tenant().tenantId
-var scriptUrl = 'https://raw.githubusercontent.com/erickmoore/poc/em-cloudcreate/prosimo/PowerShell/onboard-cloud-account.ps1'
+var scriptUrl = 'https://raw.githubusercontent.com/prosimo-io/azure/main/prosimo/PowerShell/onboard-cloud-account.ps1'
 
 resource script 'Microsoft.Resources/deploymentScripts@2020-10-01' = {
   name: name

@@ -4,8 +4,8 @@
   "metadata": {
     "_generator": {
       "name": "bicep",
-      "version": "0.4.1272.37030",
-      "templateHash": "2325089432637159624"
+      "version": "0.4.1318.3566",
+      "templateHash": "10839044609140836325"
     }
   },
   "parameters": {
@@ -82,8 +82,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.4.1272.37030",
-              "templateHash": "7941400890938176555"
+              "version": "0.4.1318.3566",
+              "templateHash": "11625835412610679373"
             }
           },
           "parameters": {
@@ -147,8 +147,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.4.1272.37030",
-              "templateHash": "12129073418370002024"
+              "version": "0.4.1318.3566",
+              "templateHash": "10448395622682263845"
             }
           },
           "parameters": {
@@ -217,8 +217,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.4.1272.37030",
-              "templateHash": "13974289288639628868"
+              "version": "0.4.1318.3566",
+              "templateHash": "9602419024883774685"
             }
           },
           "parameters": {
@@ -286,8 +286,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.4.1272.37030",
-              "templateHash": "2500173097277920992"
+              "version": "0.4.1318.3566",
+              "templateHash": "16555602669376192237"
             }
           },
           "parameters": {
@@ -353,8 +353,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.4.1272.37030",
-              "templateHash": "11401853183611289031"
+              "version": "0.4.1318.3566",
+              "templateHash": "4991553664898485462"
             }
           },
           "parameters": {
@@ -420,8 +420,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.4.1272.37030",
-              "templateHash": "1132713169058151652"
+              "version": "0.4.1318.3566",
+              "templateHash": "2323977695226090064"
             }
           },
           "parameters": {
@@ -503,8 +503,8 @@
           "metadata": {
             "_generator": {
               "name": "bicep",
-              "version": "0.4.1272.37030",
-              "templateHash": "1191627499932689593"
+              "version": "0.4.1318.3566",
+              "templateHash": "12274708910149815520"
             }
           },
           "parameters": {
@@ -539,7 +539,7 @@
           },
           "variables": {
             "tenantId": "[tenant().tenantId]",
-            "scriptUrl": "https://raw.githubusercontent.com/erickmoore/poc/em-cloudcreate/prosimo/PowerShell/onboard-cloud-account.ps1"
+            "scriptUrl": "https://raw.githubusercontent.com/prosimo-io/azure/main/prosimo/PowerShell/onboard-cloud-account.ps1"
           },
           "resources": [
             {
